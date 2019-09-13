@@ -1,2 +1,2 @@
 # practice
-new fish
+this project just for practice C.if have any suggests,pls issue.
